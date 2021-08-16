@@ -1,0 +1,4 @@
+Title: The Grapes of Wrath, pages: 479, size of pages: A3, type of paper: GLOSSY, quantity: 250; 
+Title: A Farewell to Arms, pages: 293, size of pages: A4, type of paper: REGULAR, quantity: 100; 
+Title: East of Eden, pages: 601, size of pages: A5, type of paper: NEWSPAPER, quantity: 300; 
+Final income: 7761.9000000000015, income from editions: 25970.9, costs: 18209.0
